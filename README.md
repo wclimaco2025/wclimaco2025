@@ -1,3 +1,6 @@
+![Header](./your-header-image-name.png)
+
+
 # 💫 About Me:
 🌱Estoy actualmente aprendiendo en el curso de FullStack JR. de KODIGO<br>
 
